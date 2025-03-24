@@ -1,4 +1,4 @@
-# Time Series Forecasting for Sales Data
+# 🏪 Time Series Forecasting for Sales Data
 
 This project implements a Time Series Forecasting algorithm using Python to predict sales trends across various store-item pairs. It leverages techniques to model weekly, monthly, and holiday seasonality, ensuring accurate and robust sales forecasting.
 
@@ -67,4 +67,3 @@ The model successfully captures key seasonality patterns and provides sales fore
 ## License
 
 This project is licensed under the MIT License.
-"""
